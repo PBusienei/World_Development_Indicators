@@ -8,4 +8,4 @@ The dataset contains more than a **1,000** indicators from **247** countries aro
 
 The Leading countries in CO2 emmision are; **Iran Islamic Rep**, and **Indonesia**
 
-![](image/download.png)
+<p align="center"><img src="image/download.png" width="400" height="400"></p>
