@@ -1,4 +1,4 @@
-# World_Development_Indicators
+# World-Development-Indicators
 
 This project used an open dataset from https://www.kaggle.com  for Exploratory Data Analysis. It is  <a href="https://www.kaggle.com/worldbank/world-development-indicators">The World Development Indicators</a> dataset obtained from the World Bank containing over a thousand annual indicators of economic development from hundreds of countries around the world.
 
